@@ -7,6 +7,9 @@ streamed response from a LLM.
 
 Surely someone else must have built something like this already?!
 
+Very unstable. Proof of concept. `StreamingJSONParserBeta` is the more
+successful second attempt.
+
 ```
 ROOT OBJ
 PUSH OBJ
